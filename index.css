@@ -1,0 +1,77 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#hero{
+    height: 90vh;
+    width: 100%;
+    background-image: url(./Dabur\ lal\ tail\ inside.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-style: solid;
+    border-radius: 2rem;
+}
+#company{
+    background-image: url(./dabur-chyawanprash-askshay.jpg);
+    height:100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-style: solid;
+    border-radius: 2rem;
+
+}
+#companya{
+    background-image: url(./Dabur\ honitus\ syrup.jpg);
+    height:100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-style: solid;
+    border-radius: 2rem;
+    
+}
+#companyb{
+    background-image: url(./dabur-pudin-hara.jpg);
+    height:100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-style: solid;
+    border-radius: 2rem;
+}
+#companyc{
+    background-image: url(./MaskGroup36094.jpg);
+    height:100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-style: solid;
+    border-radius: 2rem;
+}
+#companyd{
+    background-image: url(./real-fruit-juice.jpg);
+    height:100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-style: solid;
+    border-radius: 2rem;
+}
+#companyf{
+    background-image: url(./dabur-red-paste.jpg);
+    height:100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-style: solid;
+    border-radius: 2rem;
+}
+#last{
+    border-style: solid;
+}
+#end{
+    
+    border-style: dotted;
+}
+
+
+
+
+
+
+
